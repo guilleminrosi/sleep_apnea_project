@@ -48,7 +48,7 @@ Nous avons construit un modèle prédictif basé sur les variables identifiées 
   </ul>
 
 <h2>Contributeurs</h2>
-<p>Les personnes ayant contribuées à ce projet :</p>
+<p>Les personnes ayant contribué à ce projet :</p>
   <ul>
     <li>Guillemin Rosi</li>
     <li>Thomas Van Den Broeck</li>
