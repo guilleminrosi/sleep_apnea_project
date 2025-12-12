@@ -19,8 +19,7 @@ Nous avons construit un modèle prédictif basé sur les variables identifiées 
 
 <h2>Outils utilisés pour l’analyse</h2>
 <h3>Kaggle</h3>
-<p>L’ensemble de données utilisé provient du site Kaggle, il s’agit d’un ensemble de données synthétiques mais réalistes sur le suivi du sommeil, généré pour aider les étudiants, les chercheurs, les Data Scientists et les ingénieurs en IA autour de l’analyse du sommeil.</p>
-<a href="https://www.kaggle.com/datasets/mirzayasirabdullah07/smartwatch-sleep-tracking-dataset-20182025" target="_blank">Lien vers le dataset.</a>
+<p>L’ensemble de données utilisé provient du site <a href="https://www.kaggle.com/datasets/mirzayasirabdullah07/smartwatch-sleep-tracking-dataset-20182025">Kaggle</a>. Il s’agit d’un ensemble de données synthétiques mais réalistes sur le suivi du sommeil, généré pour aider les étudiants, les chercheurs, les Data Scientists et les ingénieurs en IA autour de l’analyse du sommeil.</p>
 <h3>Google Colab - Python</h3>
 <p>Afin de mener à bien notre projet, nous avons majoritairement utilisé du Python sur Google Colab. Cet outil nous a permis une exploration de grande envergure sur l’ensemble de données, ainsi qu’un nettoyage efficace de l’ensemble de données. Nous avons également fait une recherche approfondie sur les corrélations pouvant exister pour le score d’apnée du sommeil. Enfin nous avons fait des tests de Machine Learning afin de tester et vérifier nos corrélations.</p>
 <h3>BigQuery</h3>
