@@ -35,8 +35,9 @@ Nous avons construit un modèle prédictif basé sur les variables identifiées 
       </ul>
     <li>Sources scientifiques ou spécialisées dans le domaine du sommeil et de l’apnée :</li>
       <ul>
-        <li>Huang T, Lin BM, Markt SC, Stampfer MJ, Laden F, Hu FB, Tworoger SS, Redline S | Sex differences in the associations of obstructive sleep apnoea with epidemiological factors | Eur Respir J | 2018 Mar 15 <a href="https://pubmed.ncbi.nlm.nih.gov/29449424/">Lien</a></li>
+        <li>Huang T, Lin BM, Markt SC, et al | Sex differences in the associations of obstructive sleep apnoea with epidemiological factors | Eur Respir J | 2018 Mar 15 <a href="https://pubmed.ncbi.nlm.nih.gov/29449424/">Lien</a></li>
         <li>Yalım SD | The Impact of Age, Gender and Body Mass Index on the Polysomnography Variables | J Turk Sleep Med | 2021 May 26 <a href="https://jtsm.org/articles/the-impact-of-age-gender-and-body-mass-index-on-the-polysomnography-variables/jtsm.galenos.2021.47966">Lien</a></li>
+        <li>Iannella G, Pace A, Bellizzi MG et al | The Global Burden of Obstructive Sleep Apnea. Diagnostics | 2025 | 15(9) <a href="https://www.mdpi.com/2075-4418/15/9/1088">Lien</a></li>
         <li><a href="Vidal.fr">VIDAL</a></li>
         <li><a href="Inserm.fr">Inserm</a></li>
         <li><a href="info-somnolence.fr">Info Somnolence</a></li>
