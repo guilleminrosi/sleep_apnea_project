@@ -49,8 +49,8 @@ Nous avons construit un modèle prédictif basé sur les variables identifiées 
 <h2>Contributeurs</h2>
 <p>Les personnes ayant contribué à ce projet :</p>
   <ul>
-    <li>Guillemin Rosi</li>
-    <li>Thomas Van Den Broeck</li>
-    <li>Charles Silvestre</li>
-    <li>Lena Thevenet</li>
+    <li><a href="https://www.linkedin.com/in/guillemin-rosi/">Guillemin Rosi</a></li>
+    <li><a href="https://www.linkedin.com/in/thomas-van-den-broeck/">Thomas Van Den Broeck</a></li>
+    <li><a href="https://www.linkedin.com/in/charlessilvestre/">Charles Silvestre</a></li>
+    <li><a href="https://www.linkedin.com/in/lena-thevenet-695b52a4/">Lena Thevenet</a></li>
   </ul>
